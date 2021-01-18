@@ -7,8 +7,8 @@
     UserInteraction: Simple textual interface to drive program.
 """
 
-__author__ = ""
-__email__ = ""
+__author__ = "Youngsu Choi"
+__email__ = "tonymusic0825@gmail.com"
 
 from weather_data import WeatherData
 from prediction import WeatherPrediction, YesterdaysWeather, SimplePrediction, SophisticatedPrediction
