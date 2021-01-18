@@ -5,8 +5,8 @@
     YesterdaysWeather: Predict weather to be similar to yesterday's weather.
 """
 
-__author__ = ""
-__email__ = ""
+__author__ = "Youngsu Choi"
+__email__ = "tonymusic0825@gmail.com"
 
 from weather_data import WeatherData
 
